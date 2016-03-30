@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
+ <link rel="stylesheet" href="/7gram/css/main.css">
 <title>Insert title here</title>
-
 </head>
 <body>
-
+<%@include file="header.jsp" %>
 </body>
 </html>
