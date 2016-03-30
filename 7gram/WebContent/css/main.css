@@ -4,7 +4,7 @@ body {
   font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
   margin: 0px;
   padding: 50px;
-  background: #e1e1e1;
+  background: white;
 }
 .menu {
   position: relative;
@@ -221,5 +221,10 @@ body {
                0 10px 10px rgba(0,0,0,.2),
                0 20px 20px rgba(0,0,0,.15);
 }
+footer{
+	clear: both;
+}
+footer p{
+	text-align: center;
 }
 
