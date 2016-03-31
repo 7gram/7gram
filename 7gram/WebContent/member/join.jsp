@@ -7,7 +7,7 @@ sql 계정생성방법
 계정명 baseball
 생성 방법 cmd 접속후 
 sqlplus "/as sysdba" 로 sql 접속후 
-create user baseball indentified by 1234;
+create user baseball identified by 1234;
 생성 완료한뒤에 
 grant connect, dba, resource to baseball;
 로 권한을 부여한다.
