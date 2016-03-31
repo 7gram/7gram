@@ -11,9 +11,21 @@
  
 <div class='menu'>
 			<ul>
-				<li>
-					<a href='#'>Home</a>
+				<li class='active sub'>
+					<a href='#'>새소식</a>
+					<ul>
+						<li>
+							<a href="#">공지사항</a>
+						</li>
+						<li>
+							<a href="#">업데이트</a>
+						</li>
+						<li>
+							<a href="#">이벤트</a>
+						</li>
+					</ul>
 				</li>
+				
 				<li class='active sub'>
 					<a href='#'>구단 정보</a>
 					<ul>
@@ -141,29 +153,14 @@
 				</li>
 				
 				<li class='active sub'>
-					<a href='#'>Tutorials</a>
+					<a href='#'>커뮤니티</a>
 					<ul>
-						<li class='sub'>
-							<a href='#'>HTML</a>
-							<ul>
-								<li>
-									<a href='#'>HTML Basic</a>
-								</li>
-								<li class='last'>
-									<a href='#'>HTML Advanced</a>
-								</li>
-							</ul>
+						<li>
+							<a href='#'>구단별 게시판</a>
 						</li>
-						<li class='sub'>
-							<a href='#'>CSS Tutorials</a>
-							<ul>
-								<li>
-									<a href='#'>CSS Basic</a>
-								</li>
-								<li class='last'>
-									<a href='#'>CSS Advanced</a>
-								</li>
-							</ul>
+						
+						<li>
+							<a href='#'>자유 게시판</a>
 						</li>
 					</ul>
 				</li>
