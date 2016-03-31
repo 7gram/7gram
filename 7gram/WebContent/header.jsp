@@ -6,7 +6,7 @@
 	<a href="">로그인</a>|<a href="">회원가입</a>
 </div>
 <div class="mainTitle">
-	<a href="index.jsp">TITLE 부분</a>
+	<a href="/7gram/index.jsp">TITLE 부분</a>
 </div>
  
 <div class='menu'>
