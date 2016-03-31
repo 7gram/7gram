@@ -30,13 +30,13 @@
 					<a href='#'>구단 정보</a>
 					<ul>
 						<li class='sub'>
-							<a href='#'>SAMSUNG</a>
+							<a href=''>SAMSUNG</a>
 							<ul>
 								<li>
 									<a href='#'>선수 정보</a>
 								</li>
 								<li class='last'>
-									<a href='#'>구단 이력</a>
+									<a href='/7gram/team/samsung.jsp'>구단 이력</a>
 								</li>
 							</ul>
 						</li>
@@ -48,7 +48,7 @@
 									<a href='#'>선수 정보</a>
 								</li>
 								<li class='last'>
-									<a href='#'>구단 이력</a>
+									<a href='/7gram/team/kia.jsp'>구단 이력</a>
 								</li>
 							</ul>
 						</li>
@@ -60,7 +60,7 @@
 									<a href='#'>선수 정보</a>
 								</li>
 								<li class='last'>
-									<a href='#'>구단 이력</a>
+									<a href='/7gram/team/lg.jsp'>구단 이력</a>
 								</li>
 							</ul>
 						</li>
@@ -72,7 +72,7 @@
 									<a href='#'>선수 정보</a>
 								</li>
 								<li class='last'>
-									<a href='#'>구단 이력</a>
+									<a href='/7gram/team/doosan.jsp'>구단 이력</a>
 								</li>
 							</ul>
 						</li>
@@ -84,7 +84,7 @@
 									<a href='#'>선수 정보</a>
 								</li>
 								<li class='last'>
-									<a href='#'>구단 이력</a>
+									<a href='/7gram/team/nexen.jsp'>구단 이력</a>
 								</li>
 							</ul>
 						</li>
@@ -96,7 +96,7 @@
 									<a href='#'>선수 정보</a>
 								</li>
 								<li class='last'>
-									<a href='#'>구단 이력</a>
+									<a href='/7gram/team/kt.jsp'>구단 이력</a>
 								</li>
 							</ul>
 						</li>
@@ -108,7 +108,7 @@
 									<a href='#'>선수 정보</a>
 								</li>
 								<li class='last'>
-									<a href='#'>구단 이력</a>
+									<a href='/7gram/team/lotte.jsp'>구단 이력</a>
 								</li>
 							</ul>
 						</li>
@@ -120,7 +120,7 @@
 									<a href='#'>선수 정보</a>
 								</li>
 								<li class='last'>
-									<a href='#'>구단 이력</a>
+									<a href='/7gram/team/nc.jsp'>구단 이력</a>
 								</li>
 							</ul>
 						</li>
@@ -132,7 +132,7 @@
 									<a href='#'>선수 정보</a>
 								</li>
 								<li class='last'>
-									<a href='#'>구단 이력</a>
+									<a href='/7gram/team/hanwha.jsp'>구단 이력</a>
 								</li>
 							</ul>
 						</li>
@@ -144,7 +144,7 @@
 									<a href='#'>선수 정보</a>
 								</li>
 								<li class='last'>
-									<a href='#'>구단 이력</a>
+									<a href='/7gram/team/sk.jsp'>구단 이력</a>
 								</li>
 							</ul>
 						</li>
