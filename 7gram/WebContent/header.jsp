@@ -167,8 +167,19 @@
 				<li>
 					<a href='#'>Demos</a>
 				</li>
-				<li class='last'>
-					<a href='#'>Downloads</a>
+				<li class='active sub'>
+					<a href='#'>고객센터</a>
+					<ul>
+						<li>
+							<a href="">FAQ</a>
+						</li>
+						<li>
+							<a href="">고객센터</a>
+						</li>
+						<li>
+							<a href="">운영정책</a>
+						</li>
+					</ul>
 				</li>
 			</ul>
 		</div>
