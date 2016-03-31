@@ -36,17 +36,33 @@ maxvalue 100000 cycle
 	<h2>회원가입</h2>
 <section>
 	<article>
-		<form action="join_ok">
+		<form name="join" action="join_ok.jsp">
 			<table>
 				<tr>
-					<th>아이디</th><td><input type="text" name="id"></td>
-					<th>이름</th><td><input type="text" name="name"></td>
-					<th>비밀번호</th><td><input type="password" name="pwd"></td>
-					<th>E-Mail</th><td><input type="text" name="email"></td>
-					<th>주소</th><td><input type="text" name="addr"></td>
+					<th>아이디</th>
+					<td><input type="text" name="id"></td>
 				</tr>
 				<tr>
-					<th><input type="button" value="생성하기"><input type="button" value="다시작성"></th>
+					<th>이름</th>
+					<td><input type="text" name="name"></td>
+				</tr>
+				<tr>
+					<th>비밀번호</th>
+					<td><input type="password" name="pwd"></td>
+				</tr>
+				<tr>
+					<th>E-Mail</th>
+					<td><input type="text" name="email"></td>
+				</tr>
+				<tr>
+					<th>주소</th>
+					<td><input type="text" name="addr"></td>
+				</tr>
+				<tr>
+					<td colspan="2" align="center">
+					<input type="button" value="생성하기">
+					<input type="button" value="다시작성">
+					</td>
 				</tr>
 			</table>
 		</form>
