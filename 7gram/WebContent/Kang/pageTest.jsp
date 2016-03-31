@@ -23,7 +23,7 @@
 	</section>
 	
 	<section class="section">
-	
+		<h2>헤이</h2>
 	</section>
 </div>
 </body>
