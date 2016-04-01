@@ -36,7 +36,7 @@ maxvalue 100000 cycle
 	<h2>회원가입</h2>
 <section>
 	<article>
-		<form name="join" action="join_ok.jsp">
+		<form name="memberJoin" action="memberJoin.bb">
 			<table>
 				<tr>
 					<th>아이디</th>
