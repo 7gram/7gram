@@ -60,8 +60,8 @@ maxvalue 100000 cycle
 				</tr>
 				<tr>
 					<td colspan="2" align="center">
-					<input type="button" value="생성하기">
-					<input type="button" value="다시작성">
+					<input type="submit" value="생성하기">
+					<input type="reset" value="다시작성">
 					</td>
 				</tr>
 			</table>
