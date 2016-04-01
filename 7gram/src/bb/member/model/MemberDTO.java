@@ -1,8 +1,8 @@
-package bb.member;
+package bb.member.model;
 
 import java.sql.*;
 
-public class memberDTO {
+public class MemberDTO {
 
 	private int idx;
 	private String id;
@@ -11,11 +11,11 @@ public class memberDTO {
 	private String email;
 	private String addr;
 	
-	public memberDTO() {
-		// TODO Auto-generated constructor stub
+	public MemberDTO() {
+		System.out.println("DTO생성자 호출됨!");
 	}
 
-	public memberDTO(int idx, String id, String name, String pwd, String email, String addr) {
+	public MemberDTO(int idx, String id, String name, String pwd, String email, String addr) {
 		super();
 		this.idx = idx;
 		this.id = id;

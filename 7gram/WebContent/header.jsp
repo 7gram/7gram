@@ -3,7 +3,7 @@
 <!DOCTYPE html>
  <link rel="stylesheet" href="/7gram/css/main.css">
 <div class="login">
-	<a href="">로그인</a>|<a href="">회원가입</a>
+	<a href="">로그인</a>|<a href="member.bb">회원가입</a>
 </div>
 <div class="mainTitle">
 	<a href="/7gram/index.jsp">TITLE 부분</a>
